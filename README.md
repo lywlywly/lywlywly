@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a beginner programmer interested in computer systems and software engineering.
+
+### (programming) languages
+* like
+  * Python, JavaScript, Markdown, HTML
+* comfortable with
+  * Java, CSS, LaTex, Dart
+* comfortable with but limited knowledge
+  * C, TypeScript, Kotlin, SQL, PowerShell
+* limited knowledge
+  * C++, Bash, Assembly
+* plan to learn
+  * Rust, C#, Docker
+* does not like
+  * MATLAB
